@@ -1,7 +1,7 @@
 # git 版本管理基础流程     
 
 #先来个简易流程图  
-  ![image](https://github.com/jocum/git-process/img/process.png)
+  ![image](https://github.com/jocum/git-process/blob/master/img/process.png)
   
   
   #结构
